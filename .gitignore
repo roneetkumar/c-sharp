@@ -7,3 +7,5 @@
 *.csproj
 *.txt
 *.AssemblyInfo.cs
+*.bin
+*.ipch
