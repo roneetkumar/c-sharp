@@ -6,8 +6,7 @@ namespace arthematic
     {
         static void Main(string[] args)
         {
-            long val1, val2;
-            val1 = val2 = 0;
+            long val1 = 0, val2 = 0;
             bool check;
             do
             {
@@ -19,7 +18,7 @@ namespace arthematic
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("\nError : Please Enter Numeric Value\n");
+                    Console.WriteLine("\nError : Please Enter Numeric Decimal Value\n");
                     check = true;
                 }
             } while (check);
@@ -34,19 +33,20 @@ namespace arthematic
                 }
                 catch (FormatException)
                 {
-                    Console.WriteLine("\nError : Please Enter Numeric Value\n");
+                    Console.WriteLine("\nError : Please Enter Numeric Decimal Value\n");
                     check = true;
                 }
             } while (check);
 
-            Console.WriteLine("\n\t==========Result of Simple Calculator==========\n");
-            Console.WriteLine("Addition: {0} + {1} = {2}", val1, val2, (decimal)val1 + val2);
+
+            Console.WriteLine("\n==========Result of Simple Calculator==========\n");
+            Console.WriteLine("Addition: \n{0} + {1} = {2,20}", val1, val2, (decimal)val1 + val2);
             Console.WriteLine("\n=========================\n");
-            Console.WriteLine("Substraction: {0} - {1} = {2}", val1, val2, (decimal)val1 - val2);
+            Console.WriteLine("Substraction: \n{0} - {1} = {2,20}", val1, val2, (decimal)val1 - val2);
             Console.WriteLine("\n=========================\n");
-            Console.WriteLine("Multiplication: {0} * {1} = {2}", val1, val2, (decimal)val1 * val2);
+            Console.WriteLine("Multiplication: \n{0} * {1} = {2,20}", val1, val2, (decimal)val1 * val2);
             Console.WriteLine("\n===============================\n");
-            Console.WriteLine("Division: {0} / {1} = {2}", val1, val2, (decimal)val1 / val2);
+            Console.WriteLine("Division: \n{0} / {1} = {2,20}", val1, val2, (decimal)val1 / val2);
             Console.WriteLine("\n=========================\n");
             Console.WriteLine("Press any Key to Quit");
             Console.ReadKey();
