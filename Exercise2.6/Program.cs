@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Roneet Kumar, 2019-05-24, Testing Try and Catch, arrays, placeholders
 namespace Exercise2._6
 {
     class Program
