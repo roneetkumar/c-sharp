@@ -1,7 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
+// using System.Collections.Generic;
 namespace sharpner
 {
+
     class Program
     {
         static void Main(string[] args)
@@ -47,9 +48,9 @@ namespace sharpner
             // System.Console.WriteLine(c > b || c < a);
             // System.Console.WriteLine(c > b && c < a);
 
-            var person = new Person("Roneet", 22);
+            // var person = new Person("Roneet", 22);
 
-            System.Console.WriteLine("My Name is {0}, I am {1} Years Old.", person.Name, person.Age);
+            // System.Console.WriteLine("My Name is {0}, I am {1} Years Old.", person.Name, person.Age);
 
         }
     }

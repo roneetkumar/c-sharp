@@ -22,7 +22,7 @@ namespace oddEven
                     System.Console.WriteLine("enter a value greater than zero");
                     check = true;
                 }
-            } while (a < 0 || a > 1200 || check);
+            } while (check);
             do
             {
                 check = false;
@@ -37,7 +37,7 @@ namespace oddEven
                     check = true;
                 }
 
-            } while (b < 0 || b > 1200);
+            } while (check);
             System.Console.WriteLine("the solution for (a*a + b*b + 2*a*b) : {0}", (a * a + b * b + 2 * a * b));
             System.Console.WriteLine("the solution for  (a + b) / (5 + a – b) : {0}", ((a + b) / (5 + a - b)));
             System.Console.WriteLine("the given value for a is {0}", ((a % 2 == 0) ? "even" : "odd"));

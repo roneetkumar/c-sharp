@@ -6,9 +6,12 @@ namespace sharpner2
     {
         static void Main(string[] args)
         {
-            string name = "", collegeName = "", city = "", address = "";
-            byte age = 0;
-            short id = 0;
+            string name;
+            string collegeName;
+            string city;
+            string address;
+            byte age;
+            short id;
 
             System.Console.Write("Enter your ID : ");
             id = Convert.ToInt16(Console.ReadLine());
