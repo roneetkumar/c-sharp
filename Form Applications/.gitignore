@@ -1,0 +1,11 @@
+*.json
+*.dll
+*.pdb
+*.cache
+*.props
+*.targets
+*.csproj
+*.txt
+*.AssemblyInfo.cs
+*.bin
+*.ipch

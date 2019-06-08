@@ -41,9 +41,7 @@ namespace simpleCalc
                 ? mul()
                     : div();
             Console.WriteLine("Answer : {0}", result);
-
-
-        }
+         }
     }
     class Program
     {
