@@ -1,0 +1,10 @@
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple_Form_Calculator.Form1.resources
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple_Form_Calculator.Properties.Resources.resources
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csproj.GenerateResource.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.exe.config
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.exe
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\bin\Debug\Simple Form Calculator.pdb
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.exe
+D:\Files\Code\c-sharp\Form Applications\Simple Form Calculator\Simple Form Calculator\obj\Debug\Simple Form Calculator.pdb
