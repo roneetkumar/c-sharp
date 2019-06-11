@@ -38,6 +38,7 @@ namespace Simple_Form_Calculator
                 textBox4.Text = "0";
                 textBox5.Text = "0";
                 textBox6.Text = "0";
+                MessageBox.Show("Only Numbers Are Allowed");
                 }
    
 
@@ -50,13 +51,13 @@ namespace Simple_Form_Calculator
         private void Button2_Click(object sender, EventArgs e) => Close();
         private void textBox1_clicked(object sender, EventArgs e)
         {
-            if(textBox1.Text == "0")
+            if(textBox1.Text != "" || textBox1.Text == "0")
                 textBox1.Text = "";
         }
 
         private void textBox2_clicked(object sender, EventArgs e)
         {
-            if (textBox2.Text == "0")
+            if (textBox2.Text != "" || textBox2.Text == "0")
                 textBox2.Text = "";
         }
     }
