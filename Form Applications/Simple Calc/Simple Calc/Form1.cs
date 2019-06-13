@@ -62,7 +62,6 @@ namespace Simple_Calc
             {
                 MessageBox.Show(error.Message);
                 textBox2.Text = "0";
-                textBox2.Focus();
             }
             finally
             {
@@ -101,13 +100,13 @@ namespace Simple_Calc
                 this.Close();
             }
         }
-
-        private void Form1_KeyPress(object sender, KeyPressEventArgs e)
+        private void Button3_Click(object sender, EventArgs e)
         {
-            if (e.)
-            {
-                Close();
-            }
+            textBox1.Text = "0";
+            textBox2.Text = "0";
+            textBox3.Text = "0";
+
         }
+
     }
 }
