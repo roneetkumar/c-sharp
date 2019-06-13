@@ -1,0 +1,10 @@
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\bin\Debug\Simple Calc.exe.config
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\bin\Debug\Simple Calc.exe
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\bin\Debug\Simple Calc.pdb
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\obj\Debug\Simple Calc.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\obj\Debug\Simple_Calc.Form1.resources
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\obj\Debug\Simple_Calc.Properties.Resources.resources
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\obj\Debug\Simple Calc.csproj.GenerateResource.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\obj\Debug\Simple Calc.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\obj\Debug\Simple Calc.exe
+D:\Files\Code\c-sharp\Form Applications\Simple Calc\Simple Calc\obj\Debug\Simple Calc.pdb
