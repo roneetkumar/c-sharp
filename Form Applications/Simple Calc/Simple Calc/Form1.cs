@@ -34,21 +34,26 @@ namespace Simple_Calc
             }
             finally
             {
-                if (comboBox1.SelectedItem.ToString() == "+")
+                if (comboBox1.Text.Trim() == "+")
                 {
                     result = num1 + num2;
                 }
-                else if (comboBox1.SelectedItem.ToString() == "-")
+                else if (comboBox1.Text.Trim() == "-")
                 {
                     result = num1 - num2;
                 }
-                else if (comboBox1.SelectedItem.ToString() == "*")
+                else if (comboBox1.Text.Trim() == "*")
                 {
                     result = num1 * num2;
                 }
-                else if (comboBox1.SelectedItem.ToString() == "/")
+                else if (comboBox1.Text.Trim() == "/")
                 {
                     result = (num1 == 0 && num2 == 0) ? 0 : num1 / num2;
+                }
+                else
+                {
+                    MessageBox.Show("Only Math Operations are allowed");
+                    comboBox1.Text = "";
                 }
                 textBox3.Text = result.ToString();
             }
@@ -65,21 +70,26 @@ namespace Simple_Calc
             }
             finally
             {
-                if(comboBox1.SelectedItem.ToString() == "+")
+                if(comboBox1.Text.Trim().Trim() == "+")
                 {
                     result = num1 + num2;
                 }
-                else if(comboBox1.SelectedItem.ToString() == "-")
+                else if(comboBox1.Text.Trim() == "-")
                 {
                     result = num1 - num2;
                 }
-                else if (comboBox1.SelectedItem.ToString() == "*")
+                else if (comboBox1.Text.Trim() == "*")
                 {
                     result = num1 * num2;
                 }
-                else if(comboBox1.SelectedItem.ToString() == "/")
+                else if(comboBox1.Text.Trim() == "/")
                 {
                     result = (num1 == 0 && num2 == 0) ? 0 : num1 / num2;
+                }
+                else
+                {
+                    MessageBox.Show("Only Math Operations are allowed");
+                    comboBox1.Text = "";
                 }
                 textBox3.Text = result.ToString();
             }

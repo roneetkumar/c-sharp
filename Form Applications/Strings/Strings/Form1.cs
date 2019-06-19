@@ -59,11 +59,11 @@ namespace Strings
             string phoneNumber = textBox2.Text;
             string digits = "", standard = "";
            
-
-            for (int i = 0; i < phoneNumber.Length; i++) {
-                if (char.IsDigit(phoneNumber[i]))
+            foreach(char number in phoneNumber)
+            {
+                if (char.IsDigit(number))
                 {
-                    digits += phoneNumber[i];
+                    digits += number;
                 }
             }
 
