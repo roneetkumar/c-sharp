@@ -383,6 +383,7 @@
             this.btnShow.TabIndex = 8;
             this.btnShow.Text = "&Show Answer";
             this.btnShow.UseVisualStyleBackColor = true;
+            this.btnShow.Click += new System.EventHandler(this.BtnShow_Click);
             // 
             // btnReset
             // 
@@ -408,7 +409,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 592);
+            this.ClientSize = new System.Drawing.Size(800, 642);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnReset);
             this.Controls.Add(this.btnShow);

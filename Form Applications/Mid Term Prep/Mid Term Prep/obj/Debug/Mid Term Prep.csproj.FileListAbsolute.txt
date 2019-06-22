@@ -8,3 +8,13 @@ C:\Users\Machine\source\repos\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Pre
 C:\Users\Machine\source\repos\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Prep.csproj.CoreCompileInputs.cache
 C:\Users\Machine\source\repos\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Prep.exe
 C:\Users\Machine\source\repos\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Prep.pdb
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\bin\Debug\Mid Term Prep.exe.config
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\bin\Debug\Mid Term Prep.exe
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\bin\Debug\Mid Term Prep.pdb
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Prep.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\obj\Debug\Mid_Term_Prep.Form1.resources
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\obj\Debug\Mid_Term_Prep.Properties.Resources.resources
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Prep.csproj.GenerateResource.cache
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Prep.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Prep.exe
+D:\Files\Code\c-sharp\Form Applications\Mid Term Prep\Mid Term Prep\obj\Debug\Mid Term Prep.pdb
