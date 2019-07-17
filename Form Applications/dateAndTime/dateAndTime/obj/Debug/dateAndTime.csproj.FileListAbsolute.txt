@@ -1,0 +1,10 @@
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\bin\Debug\dateAndTime.exe.config
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\bin\Debug\dateAndTime.exe
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\bin\Debug\dateAndTime.pdb
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\obj\Debug\dateAndTime.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\obj\Debug\dateAndTime.Form1.resources
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\obj\Debug\dateAndTime.Properties.Resources.resources
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\obj\Debug\dateAndTime.csproj.GenerateResource.cache
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\obj\Debug\dateAndTime.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\obj\Debug\dateAndTime.exe
+D:\Files\Code\c-sharp\Form Applications\dateAndTime\dateAndTime\obj\Debug\dateAndTime.pdb
