@@ -221,14 +221,15 @@
             this.btnClearAll.BackColor = System.Drawing.Color.Blue;
             this.btnClearAll.FlatAppearance.BorderSize = 0;
             this.btnClearAll.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClearAll.Font = new System.Drawing.Font("Google Sans", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClearAll.Font = new System.Drawing.Font("Google Sans", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClearAll.ForeColor = System.Drawing.Color.White;
             this.btnClearAll.Location = new System.Drawing.Point(0, 165);
             this.btnClearAll.Name = "btnClearAll";
             this.btnClearAll.Size = new System.Drawing.Size(70, 70);
             this.btnClearAll.TabIndex = 12;
-            this.btnClearAll.Text = "CE";
+            this.btnClearAll.Text = "Clear History";
             this.btnClearAll.UseVisualStyleBackColor = false;
+            this.btnClearAll.Click += new System.EventHandler(this.BtnClearAll_Click);
             // 
             // btnMul
             // 
@@ -359,7 +360,7 @@
             this.display.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.display.Size = new System.Drawing.Size(292, 165);
             this.display.TabIndex = 20;
-            this.display.Text = "0";
+            this.display.Text = "";
             // 
             // Calculator
             // 

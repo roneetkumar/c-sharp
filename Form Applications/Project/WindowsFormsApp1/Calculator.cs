@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace WindowsFormsApp1
 {
@@ -35,15 +36,9 @@ namespace WindowsFormsApp1
             public double mul() => Num1 * Num2;
             public double div() => Num1 / Num2;
         }
-        public Calculator()
-        {
-            InitializeComponent();
-        }
-       
-        private void Calculator_Load(object sender, EventArgs e)
-        {
-            calcObj = new Calc();
-        }
+        public Calculator() => InitializeComponent();
+
+        private void Calculator_Load(object sender, EventArgs e) => calcObj = new Calc();
 
         private void numClick(object sender, EventArgs e)
         {
@@ -62,10 +57,8 @@ namespace WindowsFormsApp1
                 dotCount++;
                 display.Text += button.Text;
             }
-            if (button.Text != ".")
-            {
-                display.Text += button.Text;
-            }
+            if (button.Text != ".") display.Text += button.Text;
+            
         }
 
         private void operatorClick(object sender, EventArgs e)
@@ -79,36 +72,36 @@ namespace WindowsFormsApp1
 
         private void ansClick(object sender, EventArgs e)
         {
-            switch (operation)
-            {
-                case "+":
-                    calcObj.Num2 = Convert.ToDouble(display.Text);
-                    display.Text = (calcObj.Num1 + calcObj.Num2).ToString();
-                    break;
-                case "-":
-                    calcObj.Num2 = Convert.ToDouble(display.Text);
-                    display.Text = (calcObj.Num1 - calcObj.Num2).ToString();
-                    break;
-                case "*":
-                    calcObj.Num2 = Convert.ToDouble(display.Text);
-                    display.Text = (calcObj.Num1 * calcObj.Num2).ToString();
-                    break;
-                case "/":
-                    calcObj.Num2 = Convert.ToDouble(display.Text);
-                    display.Text = (calcObj.Num1 / calcObj.Num2).ToString();
-                    break;
-                default:
-                    break;
-            }
+            double result;
+            string dir = @"C:\Test\";
+            string filePath = @"C:\Test\Calculator History.txt";
 
-            //MessageBox.Show(calcObj.Num1.ToString() + " " + operation + " " + calcObj.Num2.ToString() + " = " + (calcObj.Num1 + calcObj.Num2));
+            calcObj.Num2 = Convert.ToDouble(display.Text);
 
-            double ans = double.Parse(display.Text);
+            result = (operation == "+") ?
+                        (calcObj.Num1 + calcObj.Num2) :
+                     (operation == "-") ?
+                        (calcObj.Num1 - calcObj.Num2) :
+                     (operation == "*") ?
+                        (calcObj.Num1 * calcObj.Num2) :
+                     (operation == "/") ?
+                        (calcObj.Num1 / calcObj.Num2) : 0;
 
-            if (ans == (double)ans)
+            display.Text = result.ToString();
+
+            if (result == (double)result)
                 dotCount = 1;
             else
                 dotCount = 0;
+
+
+            if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+
+            FileStream file = new FileStream(filePath, FileMode.Append, FileAccess.Write);
+            StreamWriter textOut = new StreamWriter(file);
+
+            textOut.WriteLine(calcObj.Num1.ToString() + " " + operation + " " + calcObj.Num2.ToString() + " = " + result.ToString());
+            textOut.Close();
         }
 
         private void clear(object sender, EventArgs e)
@@ -117,11 +110,17 @@ namespace WindowsFormsApp1
             dotCount = 0;
         }
 
-        private void BtnDel_Click(object sender, EventArgs e)
-        {
+        private void BtnDel_Click(object sender, EventArgs e) => display.Text = (Convert.ToInt32(display.Text.Length) > 0) ? display.Text.Remove(Convert.ToInt32(display.Text.Length) - 1) : "";
 
-            if(Convert.ToInt32(display.Text.Length) > 0)
-                display.Text = display.Text.Remove(Convert.ToInt32(display.Text.Length) - 1);
+        private void BtnClearAll_Click(object sender, EventArgs e)
+        {
+            string dir = @"C:\Test\";
+            string filePath = @"C:\Test\Calculator History.txt";
+            display.Text = "";
+            if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
+            FileStream file = new FileStream(filePath, FileMode.Truncate, FileAccess.Write);
+            file.SetLength(0);
+            file.Close();
         }
     }
 }
