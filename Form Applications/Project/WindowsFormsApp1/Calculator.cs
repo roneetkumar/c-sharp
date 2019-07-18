@@ -52,7 +52,7 @@ namespace WindowsFormsApp1
 
             Button button = (Button)sender;
 
-            if(button.Text == "." && dotCount < 1)
+            if (button.Text == "." && dotCount < 1)
             {
                 dotCount++;
                 display.Text += button.Text;
@@ -62,11 +62,11 @@ namespace WindowsFormsApp1
         }
 
         private void operatorClick(object sender, EventArgs e)
-        {
+        {        
             Button button = (Button)sender;
             operation = button.Text;
             calcObj.Num1 = Convert.ToDouble(display.Text);
-            display.Text = "";
+            display.Clear();
             operationClicked = true;
         }
 
@@ -88,12 +88,12 @@ namespace WindowsFormsApp1
                         (calcObj.Num1 / calcObj.Num2) : 0;
 
             display.Text = result.ToString();
+            //MessageBox.Show(result.ToString());
 
             if (result == (double)result)
                 dotCount = 1;
             else
                 dotCount = 0;
-
 
             if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
 
@@ -106,7 +106,7 @@ namespace WindowsFormsApp1
 
         private void clear(object sender, EventArgs e)
         {
-            display.Text = "";
+            display.Clear();
             dotCount = 0;
         }
 
@@ -121,6 +121,16 @@ namespace WindowsFormsApp1
             FileStream file = new FileStream(filePath, FileMode.Truncate, FileAccess.Write);
             file.SetLength(0);
             file.Close();
+        }
+
+        private void BtnAbs_Click(object sender, EventArgs e)
+        {
+            //string text = display.Text;
+
+            //if (text[0] == '-')
+            //{
+            //    text = text.Replace('-', ' ');
+            //}
         }
     }
 }

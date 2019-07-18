@@ -349,6 +349,7 @@
             this.btnAbs.TabIndex = 16;
             this.btnAbs.Text = "!";
             this.btnAbs.UseVisualStyleBackColor = false;
+            this.btnAbs.Click += new System.EventHandler(this.BtnAbs_Click);
             // 
             // display
             // 
