@@ -13,20 +13,31 @@ namespace WindowsFormsApp1
 {
     public partial class Calculator : Form
     {
-        Calc calcObj;
-        int dotCount = 0;
-        string operation = "";
+        calcOperations calcObj;
+        string operation = "" ;
         bool operationClicked = false;
+        int dotCount = 0;
 
-        class Calc
+
+        public Calculator() => InitializeComponent();
+
+        private void Calculator_Load(object sender, EventArgs e)
+        {
+            calcObj = new calcOperations();
+        }
+
+        class calcOperations
         {
             private double num1, num2;
 
-            public double Num1 {
+            public double Num1
+            {
                 get => num1;
                 set => num1 = value;
             }
-            public double Num2 {
+
+            public double Num2
+            {
                 get => num2;
                 set => num2 = value;
             }
@@ -35,22 +46,18 @@ namespace WindowsFormsApp1
             public double sub() => Num1 - Num2;
             public double mul() => Num1 * Num2;
             public double div() => Num1 / Num2;
-        }
-        public Calculator() => InitializeComponent();
 
-        private void Calculator_Load(object sender, EventArgs e) => calcObj = new Calc();
+        }
 
         private void numClick(object sender, EventArgs e)
         {
+            Button button = (Button)sender;
             if ((display.Text == "0") || (operationClicked))
             {
                 display.Clear();
                 dotCount = 0;
             }
-
             operationClicked = false;
-
-            Button button = (Button)sender;
 
             if (button.Text == "." && dotCount < 1)
             {
@@ -58,29 +65,20 @@ namespace WindowsFormsApp1
                 display.Text += button.Text;
             }
             if (button.Text != ".") display.Text += button.Text;
-            
         }
 
-        private void operatorClick(object sender, EventArgs e)
-        {        
-            Button button = (Button)sender;
-            operation = button.Text;
-            calcObj.Num1 = Convert.ToDouble(display.Text);
-            display.Clear();
-            operationClicked = true;
-        }
-
-        private void ansClick(object sender, EventArgs e)
+        private void BtnAns_Click(object sender, EventArgs e)
         {
+
             double result;
-            string dir = @"C:\Test\";
-            string filePath = @"C:\Test\Calculator History.txt";
+            string dir = @"..\..\..\Test\";
+            string filePath = @"..\..\..\Test\Calculator History.txt";
 
             calcObj.Num2 = Convert.ToDouble(display.Text);
 
             result = (operation == "+") ?
                         (calcObj.Num1 + calcObj.Num2) :
-                     (operation == "-") ?
+                         (operation == "-") ?
                         (calcObj.Num1 - calcObj.Num2) :
                      (operation == "*") ?
                         (calcObj.Num1 * calcObj.Num2) :
@@ -88,7 +86,7 @@ namespace WindowsFormsApp1
                         (calcObj.Num1 / calcObj.Num2) : 0;
 
             display.Text = result.ToString();
-            //MessageBox.Show(result.ToString());
+            MessageBox.Show(result.ToString());
 
             if (result == (double)result)
                 dotCount = 1;
@@ -102,35 +100,46 @@ namespace WindowsFormsApp1
 
             textOut.WriteLine(calcObj.Num1.ToString() + " " + operation + " " + calcObj.Num2.ToString() + " = " + result.ToString());
             textOut.Close();
+
         }
 
-        private void clear(object sender, EventArgs e)
+        private void operationClick(object sender, EventArgs e)
+        {
+            try
+            {
+                Button button = (Button)sender;
+                operation = button.Text;
+                calcObj.Num1 = Convert.ToDouble(display.Text);
+                display.Clear();
+                operationClicked = true;
+
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Please Enter Numeric Value");
+            }
+        }
+
+        private void clearBtn(object sender, EventArgs e)
         {
             display.Clear();
             dotCount = 0;
         }
 
-        private void BtnDel_Click(object sender, EventArgs e) => display.Text = (Convert.ToInt32(display.Text.Length) > 0) ? display.Text.Remove(Convert.ToInt32(display.Text.Length) - 1) : "";
+        private void delBtn(object sender, EventArgs e)
+        {
+            display.Text = (Convert.ToInt32(display.Text.Length) > 0) ? display.Text.Remove(Convert.ToInt32(display.Text.Length) - 1) : "";
+        }
 
-        private void BtnClearAll_Click(object sender, EventArgs e)
+        private void clearHistory(object sender, EventArgs e)
         {
             string dir = @"C:\Test\";
             string filePath = @"C:\Test\Calculator History.txt";
             display.Text = "";
             if (!Directory.Exists(dir)) Directory.CreateDirectory(dir);
             FileStream file = new FileStream(filePath, FileMode.Truncate, FileAccess.Write);
-            file.SetLength(0);
+            file.Flush();
             file.Close();
-        }
-
-        private void BtnAbs_Click(object sender, EventArgs e)
-        {
-            //string text = display.Text;
-
-            //if (text[0] == '-')
-            //{
-            //    text = text.Replace('-', ' ');
-            //}
         }
     }
 }

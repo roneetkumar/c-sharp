@@ -58,13 +58,52 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="ip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ip.Designer.cs">
+      <DependentUpon>ip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lotto649.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lotto649.Designer.cs">
+      <DependentUpon>lotto649.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lottoMAx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lottoMAx.Designer.cs">
+      <DependentUpon>lottoMAx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="moneyExchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="moneyExchange.Designer.cs">
+      <DependentUpon>moneyExchange.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="temperature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="temperature.Designer.cs">
+      <DependentUpon>temperature.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Calculator.resx">
       <DependentUpon>Calculator.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ip.resx">
+      <DependentUpon>ip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lottoMAx.resx">
+      <DependentUpon>lottoMAx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="moneyExchange.resx">
+      <DependentUpon>moneyExchange.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -75,6 +114,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="temperature.resx">
+      <DependentUpon>temperature.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

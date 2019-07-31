@@ -109,7 +109,7 @@
             this.btnAdd.TabIndex = 3;
             this.btnAdd.Text = "+";
             this.btnAdd.UseVisualStyleBackColor = false;
-            this.btnAdd.Click += new System.EventHandler(this.operatorClick);
+            this.btnAdd.Click += new System.EventHandler(this.operationClick);
             // 
             // btnSub
             // 
@@ -124,7 +124,7 @@
             this.btnSub.TabIndex = 7;
             this.btnSub.Text = "-";
             this.btnSub.UseVisualStyleBackColor = false;
-            this.btnSub.Click += new System.EventHandler(this.operatorClick);
+            this.btnSub.Click += new System.EventHandler(this.operationClick);
             // 
             // btn6
             // 
@@ -184,7 +184,7 @@
             this.btnDiv.TabIndex = 15;
             this.btnDiv.Text = "/";
             this.btnDiv.UseVisualStyleBackColor = false;
-            this.btnDiv.Click += new System.EventHandler(this.operatorClick);
+            this.btnDiv.Click += new System.EventHandler(this.operationClick);
             // 
             // btnDel
             // 
@@ -199,7 +199,7 @@
             this.btnDel.TabIndex = 14;
             this.btnDel.Text = "DEL";
             this.btnDel.UseVisualStyleBackColor = false;
-            this.btnDel.Click += new System.EventHandler(this.BtnDel_Click);
+            this.btnDel.Click += new System.EventHandler(this.delBtn);
             // 
             // btnClear
             // 
@@ -214,7 +214,7 @@
             this.btnClear.TabIndex = 13;
             this.btnClear.Text = "C";
             this.btnClear.UseVisualStyleBackColor = false;
-            this.btnClear.Click += new System.EventHandler(this.clear);
+            this.btnClear.Click += new System.EventHandler(this.clearBtn);
             // 
             // btnClearAll
             // 
@@ -229,7 +229,7 @@
             this.btnClearAll.TabIndex = 12;
             this.btnClearAll.Text = "Clear History";
             this.btnClearAll.UseVisualStyleBackColor = false;
-            this.btnClearAll.Click += new System.EventHandler(this.BtnClearAll_Click);
+            this.btnClearAll.Click += new System.EventHandler(this.clearHistory);
             // 
             // btnMul
             // 
@@ -244,7 +244,7 @@
             this.btnMul.TabIndex = 11;
             this.btnMul.Text = "*";
             this.btnMul.UseVisualStyleBackColor = false;
-            this.btnMul.Click += new System.EventHandler(this.operatorClick);
+            this.btnMul.Click += new System.EventHandler(this.operationClick);
             // 
             // btn9
             // 
@@ -304,7 +304,7 @@
             this.btnAns.TabIndex = 19;
             this.btnAns.Text = "=";
             this.btnAns.UseVisualStyleBackColor = false;
-            this.btnAns.Click += new System.EventHandler(this.ansClick);
+            this.btnAns.Click += new System.EventHandler(this.BtnAns_Click);
             // 
             // btnPoint
             // 
@@ -334,7 +334,6 @@
             this.btn0.TabIndex = 17;
             this.btn0.Text = "0";
             this.btn0.UseVisualStyleBackColor = false;
-            this.btn0.Click += new System.EventHandler(this.numClick);
             // 
             // btnAbs
             // 
@@ -349,7 +348,6 @@
             this.btnAbs.TabIndex = 16;
             this.btnAbs.Text = "!";
             this.btnAbs.UseVisualStyleBackColor = false;
-            this.btnAbs.Click += new System.EventHandler(this.BtnAbs_Click);
             // 
             // display
             // 

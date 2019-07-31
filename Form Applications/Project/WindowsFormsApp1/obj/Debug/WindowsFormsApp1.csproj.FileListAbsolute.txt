@@ -9,3 +9,7 @@ D:\Files\Code\c-sharp\Form Applications\Project\WindowsFormsApp1\obj\Debug\Windo
 D:\Files\Code\c-sharp\Form Applications\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\Files\Code\c-sharp\Form Applications\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\Files\Code\c-sharp\Form Applications\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+D:\Files\Code\c-sharp\Form Applications\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.moneyExchange.resources
+D:\Files\Code\c-sharp\Form Applications\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.temperature.resources
+D:\Files\Code\c-sharp\Form Applications\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.lottoMAx.resources
+D:\Files\Code\c-sharp\Form Applications\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.IP4_Validator.resources
