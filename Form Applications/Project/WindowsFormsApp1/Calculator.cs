@@ -86,7 +86,7 @@ namespace WindowsFormsApp1
                         (calcObj.Num1 / calcObj.Num2) : 0;
 
             display.Text = result.ToString();
-            MessageBox.Show(result.ToString());
+            //MessageBox.Show(result.ToString());
 
             if (result == (double)result)
                 dotCount = 1;
@@ -140,6 +140,11 @@ namespace WindowsFormsApp1
             FileStream file = new FileStream(filePath, FileMode.Truncate, FileAccess.Write);
             file.Flush();
             file.Close();
+        }
+
+        private void Display_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

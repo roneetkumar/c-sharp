@@ -58,5 +58,10 @@ namespace WindowsFormsApp1
             IP4_Validator ipObj = new IP4_Validator();
             ipObj.Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

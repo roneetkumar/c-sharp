@@ -211,6 +211,7 @@
             this.Controls.Add(this.convertionGroup);
             this.Controls.Add(this.lottoGroup);
             this.Name = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.lottoGroup.ResumeLayout(false);
             this.lottoGroup.PerformLayout();
             this.convertionGroup.ResumeLayout(false);

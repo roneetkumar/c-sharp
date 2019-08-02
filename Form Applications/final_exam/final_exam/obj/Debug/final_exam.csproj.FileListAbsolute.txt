@@ -1,0 +1,10 @@
+C:\Users\Machine\source\repos\final_exam\final_exam\bin\Debug\final_exam.exe.config
+C:\Users\Machine\source\repos\final_exam\final_exam\bin\Debug\final_exam.exe
+C:\Users\Machine\source\repos\final_exam\final_exam\bin\Debug\final_exam.pdb
+C:\Users\Machine\source\repos\final_exam\final_exam\obj\Debug\final_exam.csprojAssemblyReference.cache
+C:\Users\Machine\source\repos\final_exam\final_exam\obj\Debug\final_exam.Form1.resources
+C:\Users\Machine\source\repos\final_exam\final_exam\obj\Debug\final_exam.Properties.Resources.resources
+C:\Users\Machine\source\repos\final_exam\final_exam\obj\Debug\final_exam.csproj.GenerateResource.cache
+C:\Users\Machine\source\repos\final_exam\final_exam\obj\Debug\final_exam.csproj.CoreCompileInputs.cache
+C:\Users\Machine\source\repos\final_exam\final_exam\obj\Debug\final_exam.exe
+C:\Users\Machine\source\repos\final_exam\final_exam\obj\Debug\final_exam.pdb

@@ -103,7 +103,6 @@
             this.Text = "Lotto 649";
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         #endregion

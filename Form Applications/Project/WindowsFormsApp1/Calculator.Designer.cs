@@ -360,6 +360,7 @@
             this.display.Size = new System.Drawing.Size(292, 165);
             this.display.TabIndex = 20;
             this.display.Text = "";
+            this.display.TextChanged += new System.EventHandler(this.Display_TextChanged);
             // 
             // Calculator
             // 
