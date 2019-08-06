@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <grade>
+  <studentName>Roneet Kumar</studentName>
+  <courseNumber>420-DW2-AS</courseNumber>
+  <session>Summer</session>
+  <year>2019</year>
+  <midTermMarks>90</midTermMarks>
+  <projectMarks>90</projectMarks>
+  <finalMarks>90</finalMarks>
+  <midTermPercentage>27</midTermPercentage>
+  <projectPercentage>27</projectPercentage>
+  <finalPercentage>36</finalPercentage>
+  <totalPercentage>90</totalPercentage>
+  <finalGrade>A</finalGrade>
+ </grade>
+</root>

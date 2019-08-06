@@ -1,0 +1,20 @@
+C:\Users\Machine\Desktop\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Machine\Desktop\Final\Final\bin\Debug\Final.exe
+C:\Users\Machine\Desktop\Final\Final\bin\Debug\Final.pdb
+C:\Users\Machine\Desktop\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\Machine\Desktop\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Machine\Desktop\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Machine\Desktop\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\Final\Final\obj\Debug\Final.exe
+C:\Users\Machine\Desktop\Final\Final\obj\Debug\Final.pdb
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\bin\Debug\Final.exe
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\bin\Debug\Final.pdb
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\obj\Debug\Final.Form1.resources
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\obj\Debug\Final.exe
+C:\Users\Machine\Desktop\Roneet - 20181927\Roneet - 20181927\Final\Final\obj\Debug\Final.pdb
