@@ -8,7 +8,7 @@ namespace Excercise2._5
         {
             byte num1 = 0;
             byte num2 = 0;
-            double result = 0, power = 0;
+            double result = 0;
             bool test = false;
             short select = 0;
 

@@ -1,0 +1,10 @@
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\bin\Debug\Matrics Calculator.exe.config
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\bin\Debug\Matrics Calculator.exe
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\bin\Debug\Matrics Calculator.pdb
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\obj\Debug\Matrics Calculator.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\obj\Debug\Matrics_Calculator.Form1.resources
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\obj\Debug\Matrics_Calculator.Properties.Resources.resources
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\obj\Debug\Matrics Calculator.csproj.GenerateResource.cache
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\obj\Debug\Matrics Calculator.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\obj\Debug\Matrics Calculator.exe
+D:\Files\Code\c-sharp\Project\Matrics Calculator\Matrics Calculator\obj\Debug\Matrics Calculator.pdb

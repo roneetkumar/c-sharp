@@ -1,0 +1,11 @@
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\bin\Debug\netcoreapp2.2\Exercise2.5.deps.json
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\bin\Debug\netcoreapp2.2\Exercise2.5.runtimeconfig.json
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\bin\Debug\netcoreapp2.2\Exercise2.5.runtimeconfig.dev.json
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\bin\Debug\netcoreapp2.2\Exercise2.5.dll
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\bin\Debug\netcoreapp2.2\Exercise2.5.pdb
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\obj\Debug\netcoreapp2.2\Exercise2.5.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\obj\Debug\netcoreapp2.2\Exercise2.5.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\obj\Debug\netcoreapp2.2\Exercise2.5.AssemblyInfoInputs.cache
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\obj\Debug\netcoreapp2.2\Exercise2.5.AssemblyInfo.cs
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\obj\Debug\netcoreapp2.2\Exercise2.5.dll
+D:\Files\Code\c-sharp\Console Applications\Exercise2.5\obj\Debug\netcoreapp2.2\Exercise2.5.pdb

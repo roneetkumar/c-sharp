@@ -1,0 +1,11 @@
+D:\Files\Code\c-sharp\Console Applications\array\reversal\bin\Debug\netcoreapp2.2\reversal.deps.json
+D:\Files\Code\c-sharp\Console Applications\array\reversal\bin\Debug\netcoreapp2.2\reversal.runtimeconfig.json
+D:\Files\Code\c-sharp\Console Applications\array\reversal\bin\Debug\netcoreapp2.2\reversal.runtimeconfig.dev.json
+D:\Files\Code\c-sharp\Console Applications\array\reversal\bin\Debug\netcoreapp2.2\reversal.dll
+D:\Files\Code\c-sharp\Console Applications\array\reversal\bin\Debug\netcoreapp2.2\reversal.pdb
+D:\Files\Code\c-sharp\Console Applications\array\reversal\obj\Debug\netcoreapp2.2\reversal.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Console Applications\array\reversal\obj\Debug\netcoreapp2.2\reversal.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Console Applications\array\reversal\obj\Debug\netcoreapp2.2\reversal.AssemblyInfoInputs.cache
+D:\Files\Code\c-sharp\Console Applications\array\reversal\obj\Debug\netcoreapp2.2\reversal.AssemblyInfo.cs
+D:\Files\Code\c-sharp\Console Applications\array\reversal\obj\Debug\netcoreapp2.2\reversal.dll
+D:\Files\Code\c-sharp\Console Applications\array\reversal\obj\Debug\netcoreapp2.2\reversal.pdb

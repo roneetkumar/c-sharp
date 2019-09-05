@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Files\\Code\\c-sharp\\Console Applications\\Exercise2.6\\Exercise2.6.csproj": {}
+  },
+  "projects": {
+    "D:\\Files\\Code\\c-sharp\\Console Applications\\Exercise2.6\\Exercise2.6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Files\\Code\\c-sharp\\Console Applications\\Exercise2.6\\Exercise2.6.csproj",
+        "projectName": "Exercise2.6",
+        "projectPath": "D:\\Files\\Code\\c-sharp\\Console Applications\\Exercise2.6\\Exercise2.6.csproj",
+        "packagesPath": "C:\\Users\\Roneet\\.nuget\\packages\\",
+        "outputPath": "D:\\Files\\Code\\c-sharp\\Console Applications\\Exercise2.6\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Roneet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Files\Code\c-sharp\Console Applications\arthematic\bin\Debug\netcoreapp2.2\arthematic.deps.json
+D:\Files\Code\c-sharp\Console Applications\arthematic\bin\Debug\netcoreapp2.2\arthematic.runtimeconfig.json
+D:\Files\Code\c-sharp\Console Applications\arthematic\bin\Debug\netcoreapp2.2\arthematic.runtimeconfig.dev.json
+D:\Files\Code\c-sharp\Console Applications\arthematic\bin\Debug\netcoreapp2.2\arthematic.dll
+D:\Files\Code\c-sharp\Console Applications\arthematic\bin\Debug\netcoreapp2.2\arthematic.pdb
+D:\Files\Code\c-sharp\Console Applications\arthematic\obj\Debug\netcoreapp2.2\arthematic.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Console Applications\arthematic\obj\Debug\netcoreapp2.2\arthematic.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Console Applications\arthematic\obj\Debug\netcoreapp2.2\arthematic.AssemblyInfoInputs.cache
+D:\Files\Code\c-sharp\Console Applications\arthematic\obj\Debug\netcoreapp2.2\arthematic.AssemblyInfo.cs
+D:\Files\Code\c-sharp\Console Applications\arthematic\obj\Debug\netcoreapp2.2\arthematic.dll
+D:\Files\Code\c-sharp\Console Applications\arthematic\obj\Debug\netcoreapp2.2\arthematic.pdb

@@ -1,0 +1,11 @@
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\bin\Debug\netcoreapp2.2\exam-prep-console.deps.json
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\bin\Debug\netcoreapp2.2\exam-prep-console.runtimeconfig.json
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\bin\Debug\netcoreapp2.2\exam-prep-console.runtimeconfig.dev.json
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\bin\Debug\netcoreapp2.2\exam-prep-console.dll
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\bin\Debug\netcoreapp2.2\exam-prep-console.pdb
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\obj\Debug\netcoreapp2.2\exam-prep-console.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\obj\Debug\netcoreapp2.2\exam-prep-console.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\obj\Debug\netcoreapp2.2\exam-prep-console.AssemblyInfoInputs.cache
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\obj\Debug\netcoreapp2.2\exam-prep-console.AssemblyInfo.cs
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\obj\Debug\netcoreapp2.2\exam-prep-console.dll
+D:\Files\Code\c-sharp\Console Applications\exam-prep-console\obj\Debug\netcoreapp2.2\exam-prep-console.pdb

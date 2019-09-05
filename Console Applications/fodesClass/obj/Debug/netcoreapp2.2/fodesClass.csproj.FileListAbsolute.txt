@@ -1,0 +1,11 @@
+D:\Files\Code\c-sharp\Console Applications\fodesClass\bin\Debug\netcoreapp2.2\fodesClass.deps.json
+D:\Files\Code\c-sharp\Console Applications\fodesClass\bin\Debug\netcoreapp2.2\fodesClass.runtimeconfig.json
+D:\Files\Code\c-sharp\Console Applications\fodesClass\bin\Debug\netcoreapp2.2\fodesClass.runtimeconfig.dev.json
+D:\Files\Code\c-sharp\Console Applications\fodesClass\bin\Debug\netcoreapp2.2\fodesClass.dll
+D:\Files\Code\c-sharp\Console Applications\fodesClass\bin\Debug\netcoreapp2.2\fodesClass.pdb
+D:\Files\Code\c-sharp\Console Applications\fodesClass\obj\Debug\netcoreapp2.2\fodesClass.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Console Applications\fodesClass\obj\Debug\netcoreapp2.2\fodesClass.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Console Applications\fodesClass\obj\Debug\netcoreapp2.2\fodesClass.AssemblyInfoInputs.cache
+D:\Files\Code\c-sharp\Console Applications\fodesClass\obj\Debug\netcoreapp2.2\fodesClass.AssemblyInfo.cs
+D:\Files\Code\c-sharp\Console Applications\fodesClass\obj\Debug\netcoreapp2.2\fodesClass.dll
+D:\Files\Code\c-sharp\Console Applications\fodesClass\obj\Debug\netcoreapp2.2\fodesClass.pdb

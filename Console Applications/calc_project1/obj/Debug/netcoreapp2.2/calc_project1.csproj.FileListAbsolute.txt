@@ -1,0 +1,11 @@
+D:\Files\Code\c-sharp\Console Applications\calc_project1\bin\Debug\netcoreapp2.2\calc_project1.deps.json
+D:\Files\Code\c-sharp\Console Applications\calc_project1\bin\Debug\netcoreapp2.2\calc_project1.runtimeconfig.json
+D:\Files\Code\c-sharp\Console Applications\calc_project1\bin\Debug\netcoreapp2.2\calc_project1.runtimeconfig.dev.json
+D:\Files\Code\c-sharp\Console Applications\calc_project1\bin\Debug\netcoreapp2.2\calc_project1.dll
+D:\Files\Code\c-sharp\Console Applications\calc_project1\bin\Debug\netcoreapp2.2\calc_project1.pdb
+D:\Files\Code\c-sharp\Console Applications\calc_project1\obj\Debug\netcoreapp2.2\calc_project1.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Console Applications\calc_project1\obj\Debug\netcoreapp2.2\calc_project1.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Console Applications\calc_project1\obj\Debug\netcoreapp2.2\calc_project1.AssemblyInfoInputs.cache
+D:\Files\Code\c-sharp\Console Applications\calc_project1\obj\Debug\netcoreapp2.2\calc_project1.AssemblyInfo.cs
+D:\Files\Code\c-sharp\Console Applications\calc_project1\obj\Debug\netcoreapp2.2\calc_project1.dll
+D:\Files\Code\c-sharp\Console Applications\calc_project1\obj\Debug\netcoreapp2.2\calc_project1.pdb
