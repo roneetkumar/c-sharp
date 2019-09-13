@@ -7,8 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Lab1_ConnectedMode.DataAccess;
 using Lab1_ConnectedMode.Business;
+using Lab1_ConnectedMode.Validation;
 
 namespace Lab1_ConnectedMode.GUI
 {
@@ -24,20 +24,36 @@ namespace Lab1_ConnectedMode.GUI
             this.Close();
         }
 
-        private void Button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show(UtilityDB.ConnectDB().State.ToString());
-        }
+        //private void Button1_Click(object sender, EventArgs e)
+        //{
+        //    MessageBox.Show(UtilityDB.ConnectDB().State.ToString());
+        //}
 
         private void ButtonSave_Click(object sender, EventArgs e)
         {
+            string employeeId = textBoxEmployeeID.Text.Trim();
+
+            if (!Validator.IsValidId(employeeId, 4))
+            {
+                textBoxEmployeeID.Clear();
+                textBoxEmployeeID.Focus();
+                return;
+            }
+
             Employee emp = new Employee();
-            emp.EmployeeID = 1234;
-            emp.FirstName = "Roneet";
-            emp.LastName = "Kumar";
-            emp.JobTitle = "Programmer";
+
+            emp.EmployeeID = Convert.ToInt32(textBoxEmployeeID.Text);
+            emp.FirstName = textBoxFirstName.Text;
+            emp.LastName = textBoxLastName.Text;
+            emp.JobTitle = textBoxJobTitle.Text;
             emp.SaveEmployee(emp);
             MessageBox.Show("Employee Stored");
+
+        }
+
+        private void FormEmployee_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

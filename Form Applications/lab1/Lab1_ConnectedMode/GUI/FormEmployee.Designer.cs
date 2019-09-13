@@ -43,7 +43,11 @@
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.button1 = new System.Windows.Forms.Button();
+            this.comboBoxOption = new System.Windows.Forms.ComboBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.textBoxInput = new System.Windows.Forms.TextBox();
+            this.labelMessage = new System.Windows.Forms.Label();
+            this.buttonSearch = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -123,7 +127,7 @@
             // buttonExit
             // 
             this.buttonExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
-            this.buttonExit.Location = new System.Drawing.Point(337, 421);
+            this.buttonExit.Location = new System.Drawing.Point(351, 468);
             this.buttonExit.Name = "buttonExit";
             this.buttonExit.Size = new System.Drawing.Size(75, 23);
             this.buttonExit.TabIndex = 6;
@@ -140,7 +144,7 @@
             this.columnHeader4});
             this.listViewEmployee.GridLines = true;
             this.listViewEmployee.HideSelection = false;
-            this.listViewEmployee.Location = new System.Drawing.Point(44, 243);
+            this.listViewEmployee.Location = new System.Drawing.Point(44, 338);
             this.listViewEmployee.Name = "listViewEmployee";
             this.listViewEmployee.Size = new System.Drawing.Size(270, 137);
             this.listViewEmployee.TabIndex = 10;
@@ -166,24 +170,65 @@
             // 
             this.columnHeader4.Text = "Job Title";
             // 
-            // button1
+            // comboBoxOption
             // 
-            this.button1.Location = new System.Drawing.Point(239, 193);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 11;
-            this.button1.Text = "Test";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.Button1_Click);
+            this.comboBoxOption.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBoxOption.FormattingEnabled = true;
+            this.comboBoxOption.Items.AddRange(new object[] {
+            "ID",
+            "First Name",
+            "Last Name"});
+            this.comboBoxOption.Location = new System.Drawing.Point(120, 241);
+            this.comboBoxOption.Name = "comboBoxOption";
+            this.comboBoxOption.Size = new System.Drawing.Size(121, 21);
+            this.comboBoxOption.TabIndex = 11;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(41, 244);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(58, 13);
+            this.label5.TabIndex = 12;
+            this.label5.Text = "Search by:";
+            // 
+            // textBoxInput
+            // 
+            this.textBoxInput.Location = new System.Drawing.Point(120, 268);
+            this.textBoxInput.Name = "textBoxInput";
+            this.textBoxInput.Size = new System.Drawing.Size(121, 20);
+            this.textBoxInput.TabIndex = 13;
+            // 
+            // labelMessage
+            // 
+            this.labelMessage.AutoSize = true;
+            this.labelMessage.Location = new System.Drawing.Point(279, 271);
+            this.labelMessage.Name = "labelMessage";
+            this.labelMessage.Size = new System.Drawing.Size(50, 13);
+            this.labelMessage.TabIndex = 14;
+            this.labelMessage.Text = "Message";
+            // 
+            // buttonSearch
+            // 
+            this.buttonSearch.Location = new System.Drawing.Point(120, 294);
+            this.buttonSearch.Name = "buttonSearch";
+            this.buttonSearch.Size = new System.Drawing.Size(75, 23);
+            this.buttonSearch.TabIndex = 15;
+            this.buttonSearch.Text = "S&earch";
+            this.buttonSearch.UseVisualStyleBackColor = true;
             // 
             // FormEmployee
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.CancelButton = this.buttonExit;
-            this.ClientSize = new System.Drawing.Size(435, 467);
+            this.ClientSize = new System.Drawing.Size(461, 522);
             this.ControlBox = false;
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.buttonSearch);
+            this.Controls.Add(this.labelMessage);
+            this.Controls.Add(this.textBoxInput);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.comboBoxOption);
             this.Controls.Add(this.listViewEmployee);
             this.Controls.Add(this.buttonExit);
             this.Controls.Add(this.buttonSave);
@@ -199,6 +244,7 @@
             this.MaximizeBox = false;
             this.Name = "FormEmployee";
             this.Text = "FormEmployee";
+            this.Load += new System.EventHandler(this.FormEmployee_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -221,6 +267,10 @@
         private System.Windows.Forms.ColumnHeader columnHeader2;
         private System.Windows.Forms.ColumnHeader columnHeader3;
         private System.Windows.Forms.ColumnHeader columnHeader4;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ComboBox comboBoxOption;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox textBoxInput;
+        private System.Windows.Forms.Label labelMessage;
+        private System.Windows.Forms.Button buttonSearch;
     }
 }

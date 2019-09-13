@@ -9,7 +9,6 @@ namespace fodesClass
         private Int16 minute;
 
 
-
         public short Hour
         {
             get => hour;

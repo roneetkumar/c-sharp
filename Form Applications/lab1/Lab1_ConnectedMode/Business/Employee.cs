@@ -9,7 +9,6 @@ namespace Lab1_ConnectedMode.Business
 {
     public class Employee
     {
-        //private class variables (Encapsulation)
         private int employeeID;
         private string firstName;
         private string lastName;

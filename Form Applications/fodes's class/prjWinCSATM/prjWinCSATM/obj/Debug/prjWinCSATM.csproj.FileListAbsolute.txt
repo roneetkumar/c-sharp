@@ -1,0 +1,22 @@
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\bin\Debug\prjWinCSATM.exe.config
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\bin\Debug\prjWinCSATM.exe
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\bin\Debug\prjWinCSATM.pdb
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.frmAtm.resources
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.Properties.Resources.resources
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.csproj.GenerateResource.cache
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.exe
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.pdb
+C:\Users\Daniel\Documents\Montreal\LaSalle\Dev\prjWinCSATM\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.frmTest.resources
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\bin\Debug\prjWinCSATM.exe.config
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\bin\Debug\prjWinCSATM.exe
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\bin\Debug\prjWinCSATM.pdb
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.frmAtm.resources
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.frmTest.resources
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.Properties.Resources.resources
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.csproj.GenerateResource.cache
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.exe
+D:\Files\Code\c-sharp\Form Applications\fodes's class\prjWinCSATM\prjWinCSATM\obj\Debug\prjWinCSATM.pdb

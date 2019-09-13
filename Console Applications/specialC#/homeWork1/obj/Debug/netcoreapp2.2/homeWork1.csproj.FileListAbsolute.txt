@@ -1,0 +1,11 @@
+d:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\bin\Debug\netcoreapp2.2\homeWork1.deps.json
+d:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\bin\Debug\netcoreapp2.2\homeWork1.runtimeconfig.json
+d:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\bin\Debug\netcoreapp2.2\homeWork1.runtimeconfig.dev.json
+D:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\bin\Debug\netcoreapp2.2\homeWork1.dll
+D:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\bin\Debug\netcoreapp2.2\homeWork1.pdb
+D:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\obj\Debug\netcoreapp2.2\homeWork1.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\obj\Debug\netcoreapp2.2\homeWork1.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\obj\Debug\netcoreapp2.2\homeWork1.AssemblyInfoInputs.cache
+D:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\obj\Debug\netcoreapp2.2\homeWork1.AssemblyInfo.cs
+D:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\obj\Debug\netcoreapp2.2\homeWork1.dll
+D:\Files\Code\c-sharp\Console Applications\specialC#\homeWork1\obj\Debug\netcoreapp2.2\homeWork1.pdb

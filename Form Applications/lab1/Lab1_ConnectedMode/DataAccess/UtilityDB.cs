@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
+using System.Configuration;
 
 namespace Lab1_ConnectedMode.DataAccess
 {
@@ -12,7 +13,7 @@ namespace Lab1_ConnectedMode.DataAccess
         public static SqlConnection ConnectDB()
         {
             SqlConnection connectDB = new SqlConnection();
-            connectDB.ConnectionString = "Server=DESKTOP-NOC7ELQ; database=EmployeeDB; user=sa; password=qwerty"; //Trusted_Connection=True;
+            connectDB.ConnectionString = ConfigurationManager.ConnectionStrings["EmployeeDBConnection"].ConnectionString; //Trusted_Connection=True;
             connectDB.Open();
             return connectDB;
         }
