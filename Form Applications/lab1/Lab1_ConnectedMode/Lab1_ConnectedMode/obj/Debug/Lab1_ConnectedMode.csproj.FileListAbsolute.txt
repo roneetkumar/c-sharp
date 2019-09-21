@@ -1,0 +1,40 @@
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe.config
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.pdb
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csprojResolveAssemblyReference.cache
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.GUI.FormEmployee.resources
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.Properties.Resources.resources
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.GenerateResource.cache
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
+C:\DA3_A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe.config
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.pdb
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csprojAssemblyReference.cache
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.GUI.FormEmployee.resources
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.Properties.Resources.resources
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.GenerateResource.cache
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
+C:\DA3A2019\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe.config
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.pdb
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.GUI.FormEmployee.resources
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.Properties.Resources.resources
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.GenerateResource.cache
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb
+C:\DA3A2019\Group_7444\Version 3\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe.config
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.pdb
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csprojAssemblyReference.cache
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.GUI.FormEmployee.resources
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.Properties.Resources.resources
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.GenerateResource.cache
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
+C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb
