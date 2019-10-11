@@ -1,0 +1,11 @@
+D:\Files\Code\c-sharp\Console Applications\lab2\bin\Debug\netcoreapp2.2\lab2.deps.json
+D:\Files\Code\c-sharp\Console Applications\lab2\bin\Debug\netcoreapp2.2\lab2.runtimeconfig.json
+D:\Files\Code\c-sharp\Console Applications\lab2\bin\Debug\netcoreapp2.2\lab2.runtimeconfig.dev.json
+d:\Files\Code\c-sharp\Console Applications\lab2\bin\Debug\netcoreapp2.2\lab2.dll
+d:\Files\Code\c-sharp\Console Applications\lab2\bin\Debug\netcoreapp2.2\lab2.pdb
+d:\Files\Code\c-sharp\Console Applications\lab2\obj\Debug\netcoreapp2.2\lab2.csprojAssemblyReference.cache
+d:\Files\Code\c-sharp\Console Applications\lab2\obj\Debug\netcoreapp2.2\lab2.csproj.CoreCompileInputs.cache
+d:\Files\Code\c-sharp\Console Applications\lab2\obj\Debug\netcoreapp2.2\lab2.AssemblyInfoInputs.cache
+d:\Files\Code\c-sharp\Console Applications\lab2\obj\Debug\netcoreapp2.2\lab2.AssemblyInfo.cs
+d:\Files\Code\c-sharp\Console Applications\lab2\obj\Debug\netcoreapp2.2\lab2.dll
+d:\Files\Code\c-sharp\Console Applications\lab2\obj\Debug\netcoreapp2.2\lab2.pdb

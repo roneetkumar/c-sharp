@@ -24,7 +24,7 @@ namespace Lab1_ConnectedMode.DataAccess
         {
             SqlConnection connDB = new SqlConnection();
             connDB.ConnectionString = ConfigurationManager.ConnectionStrings["EmployeeDBConnection"].ConnectionString;
-            connDB.Open();
+            connDB.Open();  
             return connDB;
         }
 
