@@ -38,3 +38,13 @@ C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedM
 C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
 C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
 C:\Users\Machine\Desktop\Lab1_ConnectedModeV4\Lab1_ConnectedMode\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe.config
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.exe
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\bin\Debug\Lab1_ConnectedMode.pdb
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csprojAssemblyReference.cache
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.GUI.FormEmployee.resources
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.Properties.Resources.resources
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.GenerateResource.cache
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.csproj.CoreCompileInputs.cache
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.exe
+D:\Files\Code\c-sharp\Form Applications\lab1\Lab1_ConnectedMode\Lab1_ConnectedMode\obj\Debug\Lab1_ConnectedMode.pdb

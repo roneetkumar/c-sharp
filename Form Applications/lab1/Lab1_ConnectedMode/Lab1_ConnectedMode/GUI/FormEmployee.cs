@@ -30,7 +30,7 @@ namespace Lab1_ConnectedMode.GUI
             //MessageBox.Show(UtilityDB.ConnectDB().State.ToString());
             string input = "";
             Employee emp = new Employee();
-            input = textBoxEmpId.Text.Trim();
+            input = textBoxStudentNumbed.Text.Trim();
             if (!Validator.IsValidId(input, 4))
             {
                 textBoxEmpId.Clear();

@@ -113,7 +113,7 @@ namespace Lab1_ConnectedMode.DataAccess
             {
                 emp = null;
             }
-
+                
             return emp;
         }
         public static List<Employee> SearchRecord(string input)
